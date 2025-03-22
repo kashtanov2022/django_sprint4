@@ -145,8 +145,7 @@ dmypy.json
 
 .mypy_cache
 
-# Static, media
+# Media
 media/
-static/
 
 sent_emails/
